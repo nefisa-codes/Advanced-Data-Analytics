@@ -1,10 +1,17 @@
 # Advanced-Data-Analytics
-Task one 
- for task one i will answering the question "What will the organization's revenue be over the next 30 days?"
- The goal of this analysis is to use the time series model to forecast  the company's daily revenue in the next 30 days.  
 
-this anlysis contains two task the first task is on time serios analysis.
+Project Overview
+This repository contains two analytical tasks that demonstrate the application of time series forecasting and deep learning techniques:
 
-Taks 2
-The goal of this analysis is  to build a  neural network  model to  predict  if a review is fake or genuine  based on the text
-I'll be using a Recurrent Neural Network (RNN), specifically a Bidirectional LSTM network, to process the text. Bidirectional LSTMs are effective because they can capture the sequence of words in both directions, understanding context and sentiment, which is crucial when determining the authenticity of reviews. By training the network on labeled data (such as genuine vs. fake reviews), it can learn the patterns in the text that differentiate between the two.
+Task 1: Time Series Analysis
+Objective: Forecast the organization’s daily revenue for the next 30 days.
+
+This analysis leverages time series modeling to predict future revenue trends based on historical data.
+The goal is to provide actionable insights for strategic planning and decision-making.
+Task 2: Predicting Fake vs. Genuine Reviews
+Objective: Develop a neural network model to classify reviews as fake or genuine based on text content.
+
+A Bidirectional LSTM (Long Short-Term Memory) network is used to process the review text.
+Bidirectional LSTMs are particularly effective as they analyze word sequences in both forward and backward directions, capturing context and sentiment.
+The model is trained on labeled data to identify patterns in the text that distinguish genuine reviews from fake ones.
+Each task is implemented in separate sections with detailed steps and results. Explore the repository to see the methodologies and insights derived from the analyses.
