@@ -7,7 +7,9 @@ Task 1: Time Series Analysis
 Objective: Forecast the organization’s daily revenue for the next 30 days.
 
 This analysis leverages time series modeling to predict future revenue trends based on historical data.
-The goal is to provide actionable insights for strategic planning and decision-making.
+The goal is to provide actionable insights for strategic planning and decision-making.  
+
+
 Task 2: Predicting Fake vs. Genuine Reviews
 Objective: Develop a neural network model to classify reviews as fake or genuine based on text content.
 
